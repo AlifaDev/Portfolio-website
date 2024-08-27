@@ -77,9 +77,9 @@ img:hover{
         transform: scale(1.2);
 }
 footer{
-        text-align: center;
-        font-size: larger;
-        margin: 5px;
+    text-align: center;
+    font-size: larger;
+    margin: 5px;
 }
 .experience-bg{
     background-image:url( images/exp-bg.png);
